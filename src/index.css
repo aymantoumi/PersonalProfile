@@ -32,3 +32,26 @@ li:hover{
   background-image: url('./BackGround/endless-constellation.svg');
   display: flex ;
 }
+#Front_end {
+  background-color: #212F3C   ;
+}
+.box{
+  background-color: #4A235A ;
+  height: 32rem ;
+  width: 40%  ;
+  padding: 2.4rem ;
+  border-radius: 2rem ;
+  box-shadow: 0 0 5px 3px #AF7AC5 ;
+  display: flex ;
+  flex-direction: column;
+  align-items: center ;
+  gap: 2rem ;
+  transition: 550ms;
+}
+.box i {
+  font-size: 6rem ;
+}
+.box:hover{
+  scale: 1.1;
+  box-shadow: 0 0 8px 6px #af7ac5ad ;
+}
