@@ -1,6 +1,6 @@
 export default function FrontEnd(){
     return(
-        <section id='Front_end' className="flex flex-row flex-wrap justify-between">
+        <section id='Front_end' >
             <div className="box">
                 <i class="fa-brands fa-react"></i>
                 <p >

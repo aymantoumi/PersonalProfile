@@ -10,7 +10,7 @@ export default function Landing(){
                 </p>
             </div>
             <div className='flex flex-1 justify-center items-center'>
-                <img src={Web} className="h-64 w-64" />
+                <img src={Web} className="h-64 w-64" alt='background'/>
             </div>
         </section>
     );
