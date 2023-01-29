@@ -4,7 +4,7 @@ export default function NavBar(){
             <h2 className="uppercase font-extrabold text-2xl mx-4">toumi</h2>
             <ul className="flex mx-4 gap-4">
                 <li ><a href="#Front_end" >Front-end</a></li>
-                <li >Back-end</li>
+                <li > <a href="#Back_end">Back-end</a></li>
                 <li >Documentation</li>
                 <li >Contact</li>
             </ul>

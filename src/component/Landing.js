@@ -6,7 +6,7 @@ export default function Landing(){
                 <h1 className="text-7xl font-bold">Ayman Toumi</h1>
                 <button className="bg-emerald-900 p-4 rounded-3xl hover:scale-110 transition-all font-extrabold">Veiw projects</button>
                 <p>
-                As a new web developer, you have decided to create a personal website to showcase your skills and connect with others in the industry. You possess a strong understanding of front-end and back-end development as well as the latest web technologies and design trends. Your attention to detail and ability to create visually appealing and user-friendly websites sets you apart and makes you well-suited for the task of building your personal site. You are dedicated to creating a website that accurately reflects your abilities and you are constantly working to improve your skills and stay up-to-date with the latest developments in the field. Your personal website will be a great platform for you to showcase your talents and connect with potential clients and collaborators.
+                I am a skilled web developer building a personal website to showcase my abilities and connect with industry professionals. I am dedicated to creating a visually appealing and user-friendly website that accurately reflects my skills.
                 </p>
             </div>
             <div className='flex flex-1 justify-center items-center'>

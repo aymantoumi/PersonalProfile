@@ -17,8 +17,9 @@ section{
   display: flex ;
   flex-wrap: wrap ;
   flex-direction: row ;
-  justify-content: space-between ;
+  justify-content: center ;
   align-items: center ;
+  gap: 6em ;
 }
 header{
   background-color: #050222;
@@ -59,4 +60,8 @@ li:hover{
 .box:hover{
   scale: 1.1;
   box-shadow: 0 0 8px 6px #af7ac5ad ;
+}
+
+#Back_end {
+  background-color: #1C2833 ;
 }
